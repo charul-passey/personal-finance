@@ -1,4 +1,4 @@
 # personal-finance
-first git repo
+My first git repo.
 <br>
 Author - Charul Passey
